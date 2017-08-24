@@ -11,15 +11,14 @@ Unedited gameplay video (youtube):
 
 [![ARKit occlusion demo original video](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/youtube_vid.png)](https://youtu.be/akCCwPeHF9k "ARKit occlusion demo original video")
 
-Screenshots (click for bigger version:
+Screenshots (click for bigger version):
 
-[![First mapping the real world geometry](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-beginning-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-beginning.png "[First mapping the real world geometry")
-[![Throwing beachballs, that bounces of the walls and are occluded by other walls](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-blocks-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-blocks.png "Throwing beachballs, that bounces of the walls and are occluded by other walls")
+[![First mapping the real world geometry](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-mapping-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-mapping.png "First mapping the real world geometry")
+[![Throwing beachballs, that bounces of the walls and are occluded by other walls](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-occlusion-thumbnail.png)](https://raw.githubusercontent.com/bjarnel/arkit-occlusion/master/img/screenshot-occlusion.png "Throwing beachballs, that bounces of the walls and are occluded by other walls")
 
 
 License
 =======
-The code written in this project is covered by the Apache License, however the different 3rd party artworks/textures and sound effects are covered by their own original licenses - in most cases this means a non-commercial use.
 
 Copyright 2017 Bjarne Lundgren
 
